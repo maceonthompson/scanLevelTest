@@ -15,5 +15,23 @@
                 "modified": "0001-01-01T00:00:00Z"
             }
         ]
+    },
+    {
+        "path": "golang.org/x/example/hello",
+        "vulns": [
+            {
+                "id": "GO-2023-0001",
+                "modified": "0001-01-01T00:00:00Z"
+            }
+        ]
+    },
+    {
+        "path": "golang.org/x/net",
+        "vulns": [
+            {
+                "id": "GO-2023-1988",
+                "modified": "0001-01-01T00:00:00Z" 
+            }
+        ]
     }
 ]
